@@ -4,14 +4,22 @@
     box-sizing: border-box;
 }
 
+#site_header {
+    padding: 12px;
+}
+
 #site_main {
     border-top: 2px solid black;
     border-bottom: 2px solid black;
 }
 
+#site_footer {
+    padding: 4px 10px 10px;
+}
+
 .card {
     border: 2px solid black;
-    padding: 0px 20px;
-    margin: 12px 20px;
-    height: 10rem;
+    padding: 17px 20px;
+    margin: 12px 30px;
+    height: 11rem;
 }
